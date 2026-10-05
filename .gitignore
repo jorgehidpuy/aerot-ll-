@@ -1,0 +1,11 @@
+# Base de datos de Kaggle (no se incluye por su tamaño) y CSV generados
+database.sqlite
+*.csv
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Sistema
+desktop.ini
+Thumbs.db
